@@ -1,1 +1,1 @@
-# kenapa
+ASP.NET_SessionId=z522ai5vmr3fzdxnbawrwf4l;selCTY=CTYCode=KET;_fbp=fb.2.1748481376686.202743284645743481
