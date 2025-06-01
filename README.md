@@ -1,1 +1,1 @@
-ASP.NET_SessionId=z522ai5vmr3fzdxnbawrwf4l;selCTY=CTYCode=KET;_fbp=fb.2.1748481376686.202743284645743481
+ASP.NET_SessionId=agrhuak45oaqckmfcjtwruxg;selCTY=CTYCode=TNG;_fbp=fb.2.1748616188030.1468385195662758
